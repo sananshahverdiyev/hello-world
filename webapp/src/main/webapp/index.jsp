@@ -60,10 +60,12 @@
 <body>
 
 <div class="container">
-  <h1>Welcome my LOVE</h1>
-  <p>Look at yourself below: </p>
+  <h1>Welcome MY LOVE</h1>
+  <p>Look at yourself below</p>
   <div class="image-container">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F115681541162&psig=AOvVaw0c3mk0u8YWQYkHHKteHTul&ust=1710081840005000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj87La154QDFQAAAAAdAAAAABAQ" alt="Placeholder Image">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24">
+      <path fill="#000000" d="M12,21.35l-1.45-1.32C5.4,15.36,2,12.28,2,8.5C2,5.42,4.42,3,7.5,3c1.74,0,3.41,1.19,4.5,2.5 C13.09,4.19,14.76,3,16.5,3C19.58,3,22,5.42,22,8.5c0,3.78-3.4,6.86-8.55,11.54L12,21.35z"/>
+    </svg>
   </div>
   
 </div>
