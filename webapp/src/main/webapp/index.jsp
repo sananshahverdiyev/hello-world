@@ -122,8 +122,8 @@
 <body>
 <!-- partial:index.partial.html -->
 <div class="heart">
-  <div class="heartbeat">ʚ♡ɞ</div>
-  <div class="heartecho">ʚ♡ɞ</div>
+  <div class="heartbeat">♥︎</div>
+  <div class="heartecho">♥︎</div>
 </div>
 <!-- partial -->
   
