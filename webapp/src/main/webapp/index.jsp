@@ -63,7 +63,7 @@
   <h1>Welcome to Beautiful Web UI</h1>
   <p>This is a simple and elegant web UI built with HTML and inline CSS.</p>
   <div class="image-container">
-    <img src="https://via.placeholder.com/400" alt="Placeholder Image">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Freal-heart&psig=AOvVaw0c3mk0u8YWQYkHHKteHTul&ust=1710081840005000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj87La154QDFQAAAAAdAAAAABAE" alt="Placeholder Image">
   </div>
   <p>Feel free to explore and customize it as you like.</p>
   <a href="#" class="button">Learn More</a>
