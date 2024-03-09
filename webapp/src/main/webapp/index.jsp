@@ -60,7 +60,7 @@
 <body>
 
 <div class="container">
-  <h1>Welcome MY LOVE</h1>
+  <h1>Welcome MY Shafa </h1>
   <p>Look at yourself below</p>
   <div class="image-container">
     <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24">
