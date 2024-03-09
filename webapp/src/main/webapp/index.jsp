@@ -195,7 +195,7 @@ body{
 
     clip-path: ellipse(50% 50% at 50% 50%);
     transform-origin: center bottom;
-    animation: open-flower 2s 1s backwards;
+    animation: open-flower 5s 3s backwards;
 }
 
 .flower__leaf--1{
