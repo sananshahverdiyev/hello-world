@@ -60,13 +60,12 @@
 <body>
 
 <div class="container">
-  <h1>Welcome to Beautiful Web UI</h1>
-  <p>This is a simple and elegant web UI built with HTML and inline CSS.</p>
+  <h1>Welcome my LOVE</h1>
+  <p>Look at yourself below: </p>
   <div class="image-container">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Freal-heart&psig=AOvVaw0c3mk0u8YWQYkHHKteHTul&ust=1710081840005000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj87La154QDFQAAAAAdAAAAABAE" alt="Placeholder Image">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F115681541162&psig=AOvVaw0c3mk0u8YWQYkHHKteHTul&ust=1710081840005000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj87La154QDFQAAAAAdAAAAABAQ" alt="Placeholder Image">
   </div>
-  <p>Feel free to explore and customize it as you like.</p>
-  <a href="#" class="button">Learn More</a>
+  
 </div>
 
 </body>
