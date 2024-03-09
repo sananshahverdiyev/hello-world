@@ -13,6 +13,7 @@
 .heart {
   font-size: 6em;
   position: relative;
+  color: red;
 }
 
 .heartbeat {
@@ -30,6 +31,11 @@
   left: 0;
   -webkit-animation: echo 2s linear infinite;
           animation: echo 2s linear infinite;
+}
+.myapp{
+  color: brown;
+  font-size: large;
+  margin-bottom: 100px;
 }
 
 @-webkit-keyframes beat {
@@ -112,11 +118,12 @@
 <link rel="stylesheet" href="./style.css">
 
 </head>
+<p class="myapp">You in me: </p>
 <body>
 <!-- partial:index.partial.html -->
 <div class="heart">
-  <div class="heartbeat">❤️</div>
-  <div class="heartecho">❤️</div>
+  <div class="heartbeat">𓆩♡𓆪</div>
+  <div class="heartecho">𓆩♡𓆪</div>
 </div>
 <!-- partial -->
   
