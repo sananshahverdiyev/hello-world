@@ -354,21 +354,11 @@ body{
 }
 .myapp{
   color: antiquewhite;
-  font-size: 30px;
   margin-right: 200px;
-  margin-bottom: 600px;
-}
-.myappp{
-  color: antiquewhite;
-  font-size: 30px;
-  margin-right: 200px;
-  margin-bottom: 1150px;
-  margin-left: 200;
+  margin-bottom: 400px;
 }
 </style>
-
-<p class="myapp">Gözümün nuru, canım ana,<br> Böyütdün sən məni yana-yana. <br>Odlusan gün kimi, bir qaynar həyat kimi, <br> Borcluyam mən sənə, sənə bir övlad kimi, <br> Əziz ana!.. <br><br> Beşiyim üstə layla çaldın,<br> Gecədək sübhədək qadamı aldın. <br>İsti nəfəsini həmişə yaz bilmişəm, <br> Olub ki, mən sənin qədrini az bilmişəm, <br> Əziz ana!..</p>
-
+<p class="myapp">My mood when I see you: </p>
 <div class="flower">
   <div class="f-wrapper">
       <div class="flower__line"></div>
