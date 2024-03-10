@@ -358,7 +358,6 @@ body{
   margin-bottom: 400px;
 }
 </style>
-<p class="myapp">My mood when I see you: </p>
 <div class="flower">
   <div class="f-wrapper">
       <div class="flower__line"></div>
